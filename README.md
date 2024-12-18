@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Maxime!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Full+Stack+en+formation;Passionn%C3%A9+par+le+code+et+l'innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+Full+Stack+en+formation;Passionn%C3%A9+par+le+code+/+l'innovation" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 À propos de moi
